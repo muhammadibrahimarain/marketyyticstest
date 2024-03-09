@@ -55,7 +55,7 @@ If you scroll down to custperfor you would see the query that shows you which cu
 Last is Country Performance, which in overall as well is visible, but here the thought process is to show which countries have what kind of variations of prices and quantities in related to sku etc so that the team knows how much quantity should they expect to keep in their stocks etc.
 
 Visualisation 
-
+https://lookerstudio.google.com/u/0/reporting/cd2c76ef-fb99-4c79-a3e9-a7bdca2fce8f/page/tdJrD
 To make them into visualisation, we made each of the above queries into tables, and converted that into charts and graphs using looker studio. 
 
 
